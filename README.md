@@ -1,4 +1,4 @@
-# Contact App
+# My Contact App
 
 This project is a contact management application built with Python Flask as the backend and React as the frontend. The app supports basic CRUD operations (Create, Read, Update, Delete) and implements basic error handling. The backend utilizes SQLAlchemy as the database ORM for data storage.
 
